@@ -47,4 +47,9 @@
 
 ### REFERENCES
 - **Mr. Tshepo Molefe** (Church youth leader): 071 7717003
-- **Mr. Hika** (Principal): 082 556 5438
+- **Mr. Hika**(Principal): 082 556 5438
+
+
+
+### 🎥 Mock Interview
+[Watch my mock interview video here](./Mock_interview.mp4)
