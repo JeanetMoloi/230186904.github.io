@@ -49,8 +49,8 @@
 - **Mr. Tshepo Molefe** (Church youth leader): 071 7717003
 - **Mr. Hika**(Principal): 082 556 5438
 
-<details>
-<summary>Click here to view my STAR Reflections</summary>
+---
+# Project Reflections
 
 ### 1. Reflection: Coding my CV in Markdown
 
@@ -62,6 +62,8 @@
 
 **Result:** I successfully created a clean, professional digital CV. This taught me how to use lightweight markup languages, a valuable skill for technical documentation in the Application Development industry.
 
+---
+
 ### 2. Reflection: Mock Interview Video
 
 **Situation:** As a soft-spoken and shy person, recording a mock interview was a significant personal and professional challenge for me.
@@ -72,6 +74,8 @@
 
 **Result:** This process helped me step out of my comfort zone. I successfully produced a video where my technical knowledge is evident, proving that I can communicate effectively in professional settings despite my natural reservations.
 
+---
+
 ### 3. Reflection: GitHub Pages Deployment
 
 **Situation:** After coding my portfolio, I needed to move the project from a private repository to a live, public URL.
@@ -81,8 +85,6 @@
 **Action:** I navigated the GitHub repository settings to enable the "Pages" feature, selecting the Main branch as the source. I ensured my main file was named correctly and verified that all external links to my LinkedIn and GitHub profiles worked correctly in the live environment.
 
 **Result:** I now have a live, professional digital portfolio. This demonstrates my ability to use industry-standard tools like GitHub and VS Code, providing me with a professional URL to share with recruiters for my 2026 WIL placement.
-
-</details>
 
 
 
