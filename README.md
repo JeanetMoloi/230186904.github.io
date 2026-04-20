@@ -58,7 +58,7 @@
 
 **Task:** My goal was to learn Markdown syntax to structure my professional history, ICT skills, and projects effectively, ensuring the final document was readable, professional, and web-ready.
 
-**Action:** I researched Markdown syntax for headers, bold text, and horizontal rules. I carefully organized my content into logical sections—highlighting my Java and PHP projects—and used Markdown formatting to ensure my contact information and education history were clearly presented.
+**Action:** I researched Markdown syntax for headers, bold text, and horizontal rules. I carefully organized my content into logical sections, highlighting my Java and PHP projects, and used Markdown formatting to ensure my contact information and education history were clearly presented.
 
 **Result:** I successfully created a clean, professional digital CV. This taught me how to use lightweight markup languages, a valuable skill for technical documentation in the Application Development industry.
 
@@ -70,7 +70,7 @@
 
 **Task:** My objective was to record a professional interview that clearly communicated my technical skills while maintaining a confident and audible tone for a potential employer.
 
-**Action:** To overcome my shyness, I practiced my answers multiple times to build confidence. I focused specifically on my vocal projection and posture to ensure my message remained clear. I used my experience with the PHP Shopping Cart and Java projects as concrete examples of my technical problem-solving abilities.
+**Action:** To overcome my shyness, I practiced my answers multiple times to build confidence. I focused specifically on my vocal projection and posture to ensure my message remained clear.
 
 **Result:** This process helped me step out of my comfort zone. I successfully produced a video where my technical knowledge is evident, proving that I can communicate effectively in professional settings despite my natural reservations.
 
