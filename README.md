@@ -104,17 +104,17 @@ Sober Hub is a community-focused business idea that aims to help young people in
 
 **Evidence**
 
-![Agile Team Charter, page 1](images/agile-charter-page-1.png)
+![Agile Team Charter, page 1](agile-charter-page-1.png)
 
-![Agile Team Charter, page 2](images/agile-charter-page-2.png)
+![Agile Team Charter, page 2](agile-charter-page-2.png)
 
-![Agile Team Charter, page 3](images/agile-charter-page-3.png)
+![Agile Team Charter, page 3](agile-charter-page-3.png)
 
-![Agile Team Charter, page 4](images/agile-charter-page-4.png)
+![Agile Team Charter, page 4](agile-charter-page-4.png)
 
-![Agile Team Charter, page 5](images/agile-charter-page-5.png)
+![Agile Team Charter, page 5](agile-charter-page-5.png)
 
-![Agile Team Charter, page 6](images/agile-charter-page-6.png)
+![Agile Team Charter, page 6](agile-charter-page-6.png)
 
 **Reflection**
 
@@ -130,19 +130,19 @@ Sober Hub is a community-focused business idea that aims to help young people in
 
 Sprint 1: Project Initiation and Planning
 
-![User story 1](images/user-story-1.png)
+![User story 1](user-story-1.png)
 
 Sprint 2: Research and Validation
 
-![User story 3](images/user-story-3.png)
+![User story 3](user-story-3.png)
 
 Sprint 3: Business Idea Development
 
-![User story 5](images/user-story-5.png)
+![User story 5](user-story-5.png)
 
 Sprint 5: Project Improvements
 
-![User story 7](images/user-story-7.png)
+![User story 7](user-story-7.png)
 
 **Reflection**
 
@@ -158,15 +158,15 @@ Sprint 5: Project Improvements
 
 The Product Backlog is the first list on the left of our Trello board.
 
-![Product Backlog on the Trello board](images/scrum-board-part1.png)
+![Product Backlog on the Trello board](scrum-board-part1.png)
 
-![Day 8: Develop Figma Prototype](images/backlog-figma-prototype-card.png)
+![Day 8: Develop Figma Prototype](backlog-figma-prototype-card.png)
 
-![Day 10: Develop Landing Page](images/backlog-landing-page-card.png)
+![Day 10: Develop Landing Page](backlog-landing-page-card.png)
 
-![Day 10: Develop Membership Page](images/backlog-membership-page-card.png)
+![Day 10: Develop Membership Page](backlog-membership-page-card.png)
 
-![Day 10: Develop Sober Buddy Page](images/backlog-sober-buddy-page-card.png)
+![Day 10: Develop Sober Buddy Page](backlog-sober-buddy-page-card.png)
 
 **Reflection**
 
@@ -182,11 +182,11 @@ The Product Backlog is the first list on the left of our Trello board.
 
 Scrum board, Product Backlog to Sprint 8
 
-![Scrum board part 1](images/scrum-board-part1.png)
+![Scrum board part 1](scrum-board-part1.png)
 
 Scrum board, Sprint 4 to Sprint 12
 
-![Scrum board part 2](images/scrum-board-part2.png)
+![Scrum board part 2](scrum-board-part2.png)
 
 **Reflection**
 
@@ -200,9 +200,9 @@ Scrum board, Sprint 4 to Sprint 12
 
 **Evidence**
 
-![Agile Logbook, page 1](images/agile-logbook-page-1.png)
+![Agile Logbook, page 1](agile-logbook-page-1.png)
 
-![Agile Logbook, page 2](images/agile-logbook-page-2.png)
+![Agile Logbook, page 2](agile-logbook-page-2.png)
 
 **Reflection**
 
