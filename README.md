@@ -91,3 +91,127 @@
 
 ### 🎥 Mock Interview
 [Watch my mock interview video here](./Mock_interview.mp4)
+
+
+### AGILE PORTFOLIO: SOBER HUB
+**Project Presentation 3 (PRP370S / PRP371S / PRP372S)**
+
+Sober Hub is a community-focused business idea that aims to help young people in Katlehong who are recovering from substance abuse. Our team managed the work with Scrum and Kanban on a Trello board.
+
+---
+
+### 1. AGILE TEAM CHARTER
+
+**Evidence**
+
+![Agile Team Charter, page 1](images/agile-charter-page-1.png)
+
+![Agile Team Charter, page 2](images/agile-charter-page-2.png)
+
+![Agile Team Charter, page 3](images/agile-charter-page-3.png)
+
+![Agile Team Charter, page 4](images/agile-charter-page-4.png)
+
+![Agile Team Charter, page 5](images/agile-charter-page-5.png)
+
+![Agile Team Charter, page 6](images/agile-charter-page-6.png)
+
+**Reflection**
+
+[WRITE YOUR REFLECTION HERE]
+
+<!-- Prompts: What did version 1.0 get wrong? What did you change in version 2.0 and why? Which working agreement helped most? Which one was hardest to keep? -->
+
+---
+
+### 2. USER STORIES AND TASKS
+
+**Evidence**
+
+Sprint 1: Project Initiation and Planning
+
+![User story 1](images/user-story-1.png)
+
+Sprint 2: Research and Validation
+
+![User story 3](images/user-story-3.png)
+
+Sprint 3: Business Idea Development
+
+![User story 5](images/user-story-5.png)
+
+Sprint 5: Project Improvements
+
+![User story 7](images/user-story-7.png)
+
+**Reflection**
+
+[WRITE YOUR REFLECTION HERE]
+
+<!-- Prompts: How did writing stories change how the team planned? Which story was hardest to write and why? How did breaking a story into tasks help? -->
+
+---
+
+### 3. PRODUCT BACKLOG
+
+**Evidence**
+
+The Product Backlog is the first list on the left of our Trello board.
+
+![Product Backlog on the Trello board](images/scrum-board-part1.png)
+
+![Day 8: Develop Figma Prototype](images/backlog-figma-prototype-card.png)
+
+![Day 10: Develop Landing Page](images/backlog-landing-page-card.png)
+
+![Day 10: Develop Membership Page](images/backlog-membership-page-card.png)
+
+![Day 10: Develop Sober Buddy Page](images/backlog-sober-buddy-page-card.png)
+
+**Reflection**
+
+[WRITE YOUR REFLECTION HERE]
+
+<!-- Prompts: How did you decide the priority order? Why were some cards not finished? What carried over and why? What would you do differently? -->
+
+---
+
+### 4. SPRINT BACKLOG
+
+**Evidence**
+
+Scrum board, Product Backlog to Sprint 8
+
+![Scrum board part 1](images/scrum-board-part1.png)
+
+Scrum board, Sprint 4 to Sprint 12
+
+![Scrum board part 2](images/scrum-board-part2.png)
+
+**Reflection**
+
+[WRITE YOUR REFLECTION HERE]
+
+<!-- Prompts: How did a sprint run in practice? Why did Sprint 11 have only one card? What did the sprint structure help or hinder? -->
+
+---
+
+### 5. AGILE LOGBOOK
+
+**Evidence**
+
+![Agile Logbook, page 1](images/agile-logbook-page-1.png)
+
+![Agile Logbook, page 2](images/agile-logbook-page-2.png)
+
+**Reflection**
+
+[WRITE YOUR REFLECTION HERE]
+
+<!-- Prompts: What did the daily entries show you about how the team worked? What patterns appear across the week? Which lesson changed the charter? -->
+
+---
+
+### OVERALL REFLECTION
+
+[WRITE YOUR OVERALL REFLECTION HERE]
