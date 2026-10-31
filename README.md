@@ -126,6 +126,7 @@ The full charter is also available as a PDF: [Sober Hub Agile Team Charter (PDF)
 **Action:** I worked with my team on the charter's roles, stand-up routine and communication channels (WhatsApp, Teams and Trello). The charter also set response-time expectations, an announcement rule for class updates, accountability steps for fair contribution and a Definition of Done for each type of work.
 
 **Result:** The charter gave me a clear role and clear deadlines for my research, and I could check it whenever I was unsure what the team had agreed. It showed me that a team agreement is only useful if it is followed and reviewed regularly, which is why our charter describes itself as a living agreement.
+
 ---
 
 ### 2. USER STORIES AND TASKS
