@@ -97,26 +97,23 @@
 **Project Presentation 3 (PRP370S / PRP371S / PRP372S)**
 
 Sober Hub is a community-focused business idea that aims to help young people in Katlehong who are recovering from substance abuse. Our team managed the work with Scrum and Kanban on a Trello board.
-
----
-
 ### 1. AGILE TEAM CHARTER
 
 **Evidence**
 
-The full charter is also available as a PDF: <a href="https://YOURUSERNAME.github.io/REPO-NAME/Sober_Hub_Agile_Team_Charter.pdf">Sober Hub Agile Team Charter (PDF)</a>
+The full charter is also available as a PDF: <a href="https://jeanetmoloi.github.io/230186904.github.io/Sober_Hub_Agile_Team_Charter.pdf">Sober Hub Agile Team Charter (PDF)</a>
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/agile-team-charter-page-1.png" alt="Agile Team Charter, page 1" width="700">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-team-charter-page-1.png" alt="Agile Team Charter, page 1" width="700">
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/agile-team-charter-page-2.png" alt="Agile Team Charter, page 2" width="700">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-team-charter-page-2.png" alt="Agile Team Charter, page 2" width="700">
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/agile-team-charter-page-3.png" alt="Agile Team Charter, page 3" width="700">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-team-charter-page-3.png" alt="Agile Team Charter, page 3" width="700">
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/agile-team-charter-page-4.png" alt="Agile Team Charter, page 4" width="700">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-team-charter-page-4.png" alt="Agile Team Charter, page 4" width="700">
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/agile-team-charter-page-5.png" alt="Agile Team Charter, page 5" width="700">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-team-charter-page-5.png" alt="Agile Team Charter, page 5" width="700">
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/agile-team-charter-page-6.png" alt="Agile Team Charter, page 6" width="700">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-team-charter-page-6.png" alt="Agile Team Charter, page 6" width="700">
 
 **Reflection**
 
@@ -132,19 +129,19 @@ The full charter is also available as a PDF: <a href="https://YOURUSERNAME.githu
 
 Sprint 1: Project Initiation and Planning
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/user-story-1.png" alt="User story 1" width="700">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/user-story-1.png" alt="User story 1" width="700">
 
 Sprint 2: Research and Validation
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/user-story-3.png" alt="User story 3" width="700">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/user-story-3.png" alt="User story 3" width="700">
 
 Sprint 3: Business Idea Development
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/user-story-5.png" alt="User story 5" width="700">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/user-story-5.png" alt="User story 5" width="700">
 
 Sprint 5: Project Improvements
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/user-story-7.png" alt="User story 7" width="700">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/user-story-7.png" alt="User story 7" width="700">
 
 **Reflection**
 
@@ -160,15 +157,15 @@ Sprint 5: Project Improvements
 
 The Product Backlog is the first list on the left of our Trello board.
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/scrum-board-part1.png" alt="Product Backlog on the Trello board" width="900">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/scrum-board-part1.png" alt="Product Backlog on the Trello board" width="900">
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/backlog-figma-prototype-card.png" alt="Day 8: Develop Figma Prototype" width="500">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/backlog-figma-prototype-card.png" alt="Day 8: Develop Figma Prototype" width="500">
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/backlog-landing-page-card.png" alt="Day 10: Develop Landing Page" width="500">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/backlog-landing-page-card.png" alt="Day 10: Develop Landing Page" width="500">
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/backlog-membership-page-card.png" alt="Day 10: Develop Membership Page" width="500">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/backlog-membership-page-card.png" alt="Day 10: Develop Membership Page" width="500">
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/backlog-sober-buddy-page-card.png" alt="Day 10: Develop Sober Buddy Page" width="500">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/backlog-sober-buddy-page-card.png" alt="Day 10: Develop Sober Buddy Page" width="500">
 
 **Reflection**
 
@@ -184,11 +181,11 @@ The Product Backlog is the first list on the left of our Trello board.
 
 Scrum board, Product Backlog to Sprint 8
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/scrum-board-part1.png" alt="Scrum board part 1" width="900">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/scrum-board-part1.png" alt="Scrum board part 1" width="900">
 
 Scrum board, Sprint 4 to Sprint 12
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/scrum-board-part2.png" alt="Scrum board part 2" width="900">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/scrum-board-part2.png" alt="Scrum board part 2" width="900">
 
 **Reflection**
 
@@ -202,9 +199,9 @@ Scrum board, Sprint 4 to Sprint 12
 
 **Evidence**
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/agile-logbook-page-1.png" alt="Agile Logbook, page 1" width="800">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-logbook-page-1.png" alt="Agile Logbook, page 1" width="800">
 
-<img src="agile-logbook-page-2.png" alt="Agile Logbook, page 2" width="800">
+<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-logbook-page-2.png" alt="Agile Logbook, page 2" width="800">
 
 **Reflection**
 
@@ -217,4 +214,5 @@ Scrum board, Sprint 4 to Sprint 12
 ### OVERALL REFLECTION
 
 [WRITE YOUR OVERALL REFLECTION HERE]
+---
 
