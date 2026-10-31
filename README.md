@@ -97,30 +97,36 @@
 **Project Presentation 3 (PRP370S / PRP371S / PRP372S)**
 
 Sober Hub is a community-focused business idea that aims to help young people in Katlehong who are recovering from substance abuse. Our team managed the work with Scrum and Kanban on a Trello board.
+
+---
+
 ### 1. AGILE TEAM CHARTER
 
 **Evidence**
 
-The full charter is also available as a PDF: <a href="https://jeanetmoloi.github.io/230186904.github.io/Sober_Hub_Agile_Team_Charter.pdf">Sober Hub Agile Team Charter (PDF)</a>
+The full charter is also available as a PDF: [Sober Hub Agile Team Charter (PDF)](Sober_Hub_Agile_Team_Charter.pdf)
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-team-charter-page-1.png" alt="Agile Team Charter, page 1" width="700">
+![Agile Team Charter, page 1](images/agile-team-charter-page-1.png)
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-team-charter-page-2.png" alt="Agile Team Charter, page 2" width="700">
+![Agile Team Charter, page 2](images/agile-team-charter-page-2.png)
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-team-charter-page-3.png" alt="Agile Team Charter, page 3" width="700">
+![Agile Team Charter, page 3](images/agile-team-charter-page-3.png)
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-team-charter-page-4.png" alt="Agile Team Charter, page 4" width="700">
+![Agile Team Charter, page 4](images/agile-team-charter-page-4.png)
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-team-charter-page-5.png" alt="Agile Team Charter, page 5" width="700">
+![Agile Team Charter, page 5](images/agile-team-charter-page-5.png)
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-team-charter-page-6.png" alt="Agile Team Charter, page 6" width="700">
+![Agile Team Charter, page 6](images/agile-team-charter-page-6.png)
 
 **Reflection**
 
-* **Situation:** At the start of our Project Presentation 3 work, our group needed clear roles, working agreements and communication rules so that messages, deadlines and class announcements would not be missed.
-* **Task:** As the team Researcher, my job was to help set and follow the rules that would keep our research moving, such as response times, daily stand-ups and how my survey findings would be shared with the rest of the team.
-* **Action:** I worked with my team on the charter's roles, stand-up routine and communication channels (WhatsApp, Teams and Trello). When the charter was revised to Version 2.0, we strengthened the communication and accountability rules, added response-time expectations and an announcement rule, and expanded the Definition of Done, using lessons from our Agile Logbook.
-* **Result:** The charter gave me a clear role and clear deadlines for my research, and it showed me that a team agreement is only useful if it is reviewed and improved. Version 2.0 was better than Version 1.0 because it was based on problems we actually experienced.
+**Situation:** At the start of our Project Presentation 3 work, our group needed clear roles, working agreements and communication rules so that messages, deadlines and class announcements would not be missed.
+
+**Task:** As the team Researcher, my job was to help set and follow the rules that would keep our research moving, such as response times, daily stand-ups and how my survey findings would be shared with the rest of the team.
+
+**Action:** I worked with my team on the charter's roles, stand-up routine and communication channels (WhatsApp, Teams and Trello). When the charter was revised to Version 2.0, we strengthened the communication and accountability rules, added response-time expectations and an announcement rule, and expanded the Definition of Done, using lessons from our Agile Logbook.
+
+**Result:** The charter gave me a clear role and clear deadlines for my research, and it showed me that a team agreement is only useful if it is reviewed and improved. Version 2.0 was better than Version 1.0 because it was based on problems we actually experienced.
 
 ---
 
@@ -130,26 +136,29 @@ The full charter is also available as a PDF: <a href="https://jeanetmoloi.github
 
 Sprint 1: Project Initiation and Planning
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/user-story-1.png" alt="User story 1" width="700">
+![User story 1](images/user-story-1.png)
 
 Sprint 2: Research and Validation
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/user-story-3.png" alt="User story 3" width="700">
+![User story 3](images/user-story-3.png)
 
 Sprint 3: Business Idea Development
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/user-story-5.png" alt="User story 5" width="700">
+![User story 5](images/user-story-5.png)
 
 Sprint 5: Project Improvements
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/user-story-7.png" alt="User story 7" width="700">
+![User story 7](images/user-story-7.png)
 
 **Reflection**
 
-* **Situation:** Before we could build anything, the team needed to turn broad ideas about Sober Hub into goals that were written from the point of view of the people who would use it.
-* **Task:** As the Researcher, my task was to write clear user stories in the "As a... I want... so that..." format and break each one into small tasks that could be tracked and finished.
-* **Action:** I focused on the Sprint 2 story, "As researchers, we want to collect and analyse community data so that we can validate the need for Sober Hub". I broke it into tasks on our Trello board: designing the Google Forms survey, creating the survey questions, distributing the survey, collecting responses, summarising the findings and analysing the survey data.
-* **Result:** Breaking the story into tasks made a big goal manageable and showed my teammates exactly what research evidence to expect and when. It also taught me that writing the "so that" part forces the team to explain why a feature matters before building it.
+**Situation:** Before we could build anything, the team needed to turn broad ideas about Sober Hub into goals that were written from the point of view of the people who would use it.
+
+**Task:** As the Researcher, my task was to write clear user stories in the "As a... I want... so that..." format and break each one into small tasks that could be tracked and finished.
+
+**Action:** I focused on the Sprint 2 story, "As researchers, we want to collect and analyse community data so that we can validate the need for Sober Hub". I broke it into tasks on our Trello board: designing the Google Forms survey, creating the survey questions, distributing the survey, collecting responses, summarising the findings and analysing the survey data.
+
+**Result:** Breaking the story into tasks made a big goal manageable and showed my teammates exactly what research evidence to expect and when. It also taught me that writing the "so that" part forces the team to explain why a feature matters before building it.
 
 ---
 
@@ -159,22 +168,25 @@ Sprint 5: Project Improvements
 
 The Product Backlog is the first list on the left of our Trello board.
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/product-backlog.png" alt="Product Backlog on the Trello board" width="500">
+![Product Backlog on the Trello board](images/product-backlog.png)
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/backlog-figma-prototype-card.png" alt="Day 8: Develop Figma Prototype" width="500">
+![Day 8: Develop Figma Prototype](images/backlog-figma-prototype-card.png)
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/backlog-landing-page-card.png" alt="Day 10: Develop Landing Page" width="500">
+![Day 10: Develop Landing Page](images/backlog-landing-page-card.png)
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/backlog-membership-page-card.png" alt="Day 10: Develop Membership Page" width="500">
+![Day 10: Develop Membership Page](images/backlog-membership-page-card.png)
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/backlog-sober-buddy-page-card.png" alt="Day 10: Develop Sober Buddy Page" width="500">
+![Day 10: Develop Sober Buddy Page](images/backlog-sober-buddy-page-card.png)
 
 **Reflection**
 
-* **Situation:** Our project ran across 12 sprints, so the team needed one central list of everything still to be built, so that nobody was working from a different idea of what came next.
-* **Task:** As a team, we had to list the features and pages we still needed and put them in an order that made sense, with my research findings helping us decide what users needed most.
-* **Action:** We used the Product Backlog list on Trello to hold our remaining work. The Figma prototype came first, then the frontend pages (Landing, Membership, Sober Buddy and Contact), and the database and backend items (such as database design, tables and membership management) came last. Each card has a user story and a checklist of subtasks.
-* **Result:** The backlog made our priorities visible, but it also showed our limits. The Figma, Landing and Contact cards were completed, while Membership (2/4) and Sober Buddy (3/4) were only partly done and the Day 11 database cards had not been started. This taught me that a backlog needs realistic estimates and regular re-prioritising, because a short timeline means not everything on the list can be finished.
+**Situation:** Our project ran across 12 sprints, so the team needed one central list of everything still to be built, so that nobody was working from a different idea of what came next.
+
+**Task:** As a team, we had to list the features and pages we still needed and put them in an order that made sense, with my research findings helping us decide what users needed most.
+
+**Action:** We used the Product Backlog list on Trello to hold our remaining work. The Figma prototype came first, then the frontend pages (Landing, Membership, Sober Buddy and Contact), and the database and backend items (such as database design, tables and membership management) came last. Each card has a user story and a checklist of subtasks.
+
+**Result:** The backlog made our priorities visible, but it also showed our limits. The Figma, Landing and Contact cards were completed, while Membership (2/4) and Sober Buddy (3/4) were only partly done and the Day 11 database cards had not been started. This taught me that a backlog needs realistic estimates and regular re-prioritising, because a short timeline means not everything on the list can be finished.
 
 ---
 
@@ -184,20 +196,23 @@ The Product Backlog is the first list on the left of our Trello board.
 
 Scrum board, Product Backlog to Sprint 8
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/scrum-board-part1.png" alt="Scrum board part 1" width="900">
+![Scrum board part 1](images/scrum-board-part1.png)
 
 Scrum board, Sprint 4 to Sprint 12
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/scrum-board-part2.png" alt="Scrum board part 2" width="900">
+![Scrum board part 2](images/scrum-board-part2.png)
 
+Full board on Trello: [Sober Hub Project-Agile Scrum Board \| Trello](https://trello.com/b/BmXaw4Vp)
 
-<a href="https://trello.com/b/BmXaw4Vp" target="_blank">Sober Hub Project-Agile Scrum Board &#124; Trello</a>
 **Reflection**
 
-* **Situation:** Our project was too big to do all at once, so the team needed a way to split it into short pieces of work that everyone could commit to.
-* **Task:** Our goal was to plan the work as one-week sprints, each with its own theme, and to track every task on the Trello board.
-* **Action:** We worked through 12 sprints together, from project planning (Sprint 1) and research and validation (Sprint 2), through documentation, marketing and the feasibility study, to the MVP and prototype (Sprint 8), frontend and backend development (Sprints 10 and 11), and finally testing and deployment (Sprint 12). Each card had a checklist, and the team members were tagged on each one. Sprint 11 had only one card, User Authentication, because it was a single focused backend task.
-* **Result:** The sprint structure gave us a steady rhythm and made it easy to see what was finished, such as the fully ticked-off checklists in the earlier sprints. It also showed that sprints can be uneven in size, and that planning needs to balance the workload across sprints.
+**Situation:** Our project was too big to do all at once, so the team needed a way to split it into short pieces of work that everyone could commit to.
+
+**Task:** Our goal was to plan the work as one-week sprints, each with its own theme, and to track every task on the Trello board.
+
+**Action:** We worked through 12 sprints together, from project planning (Sprint 1) and research and validation (Sprint 2), through documentation, marketing and the feasibility study, to the MVP and prototype (Sprint 8), frontend and backend development (Sprints 10 and 11), and finally testing and deployment (Sprint 12). Each card had a checklist, and the team members were tagged on each one. Sprint 11 had only one card, User Authentication, because it was a single focused backend task.
+
+**Result:** The sprint structure gave us a steady rhythm and made it easy to see what was finished, such as the fully ticked-off checklists in the earlier sprints. It also showed that sprints can be uneven in size, and that planning needs to balance the workload across sprints.
 
 ---
 
@@ -205,24 +220,30 @@ Scrum board, Sprint 4 to Sprint 12
 
 **Evidence**
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-logbook-page-1.png" alt="Agile Logbook, page 1" width="800">
+![Agile Logbook, page 1](images/agile-logbook-page-1.png)
 
-<img src="https://jeanetmoloi.github.io/230186904.github.io/images/agile-logbook-page-2.png" alt="Agile Logbook, page 2" width="800">
+![Agile Logbook, page 2](images/agile-logbook-page-2.png)
 
 **Reflection**
 
-* **Situation:** During the final week before our presentation, the work was moving quickly and the timeline was extremely tight, so I needed a simple way to record my progress and any problems each day.
-* **Task:** My task was to complete a daily logbook entry answering three stand-up questions: what I completed, what I planned to do next, and what was blocking me.
-* **Action:** On Monday I recorded that we had aligned on our core project goals and that I would draft the survey questions and deploy them in Katlehong, and I flagged the tight timeline as my main risk. On Tuesday I recorded that I had gathered data from 20 residents and analysed the final metrics, and that I would pass structured layout guidelines and chart data to the slide builder. By Wednesday I had reviewed the final PowerPoint draft for data accuracy, and on Thursday we delivered our live presentation.
-* **Result:** Writing down my blockers each day made me deal with problems early instead of letting them grow. The logbook gave us a clear record of how the week went, and it was one of the sources for the improvements we made in Version 2.0 of our charter.
+**Situation:** During the final week before our presentation, the work was moving quickly and the timeline was extremely tight, so I needed a simple way to record my progress and any problems each day.
+
+**Task:** My task was to complete a daily logbook entry answering three stand-up questions: what I completed, what I planned to do next, and what was blocking me.
+
+**Action:** On Monday I recorded that we had aligned on our core project goals and that I would draft the survey questions and deploy them in Katlehong, and I flagged the tight timeline as my main risk. On Tuesday I recorded that I had gathered data from 20 residents and analysed the final metrics, and that I would pass structured layout guidelines and chart data to the slide builder. By Wednesday I had reviewed the final PowerPoint draft for data accuracy, and on Thursday we delivered our live presentation.
+
+**Result:** Writing down my blockers each day made me deal with problems early instead of letting them grow. The logbook gave us a clear record of how the week went, and it was one of the sources for the improvements we made in Version 2.0 of our charter.
 
 ---
 
 ### OVERALL REFLECTION
 
-* **Situation:** Over the Sober Hub project, I worked as the Researcher in a team of four, using Scrum and Kanban on a Trello board to design a community-focused business idea for young people in recovery in Katlehong.
-* **Task:** For Project Presentation 3, I had to collect the evidence of how our team worked using Agile (our charter, user stories, product backlog, sprint backlog and logbook) and reflect on what each one taught me.
-* **Action:** I gathered a screenshot of each piece of evidence, wrote a reflection for each, and added all of it to my final GitHub Pages website, so that it can be viewed in one place. I also linked our full Scrum board on Trello so that the whole sprint history can be seen.
-* **Result:** Putting the five pieces together showed me how they connect. The charter set our rules, the user stories turned my survey research into clear goals, the product backlog and sprint board kept our work visible, and the logbook recorded the daily problems that led us to improve the charter. It also showed me where we fell short, because some backlog cards were left unfinished and our timeline was very tight. The main lessons I take away are to raise blockers early, to plan realistically, to share research with the team as soon as it is ready, and to review team agreements regularly so that they keep improving.
+**Situation:** Over the Sober Hub project, I worked as the Researcher in a team of four, using Scrum and Kanban on a Trello board to design a community-focused business idea for young people in recovery in Katlehong.
 
-<a href="https://moltinate230074189.github.io/SoberHub2/" target="_blank">Sober Hub &#124; Support &bull; Grow &bull; Thrive</a>
+**Task:** For Project Presentation 3, I had to collect the evidence of how our team worked using Agile (our charter, user stories, product backlog, sprint backlog and logbook) and reflect on what each one taught me.
+
+**Action:** I gathered a screenshot of each piece of evidence, wrote a reflection for each, and added all of it to my final GitHub Pages website, so that it can be viewed in one place. I also linked our full Scrum board on Trello so that the whole sprint history can be seen.
+
+**Result:** Putting the five pieces together showed me how they connect. The charter set our rules, the user stories turned my survey research into clear goals, the product backlog and sprint board kept our work visible, and the logbook recorded the daily problems that led us to improve the charter. It also showed me where we fell short, because some backlog cards were left unfinished and our timeline was very tight. The main lessons I take away are to raise blockers early, to plan realistically, to share research with the team as soon as it is ready, and to review team agreements regularly so that they keep improving.
+
+Final website: [Sober Hub \| Support • Grow • Thrive](https://moltinate230074189.github.io/SoberHub2/)
