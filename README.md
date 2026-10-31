@@ -119,15 +119,13 @@ The full charter is also available as a PDF: [Sober Hub Agile Team Charter (PDF)
 ![Agile Team Charter, page 6](images/agile-team-charter-page-6.png)
 
 **Reflection**
-
 **Situation:** At the start of our Project Presentation 3 work, our group needed clear roles, working agreements and communication rules so that messages, deadlines and class announcements would not be missed.
 
 **Task:** As the team Researcher, my job was to help set and follow the rules that would keep our research moving, such as response times, daily stand-ups and how my survey findings would be shared with the rest of the team.
 
-**Action:** I worked with my team on the charter's roles, stand-up routine and communication channels (WhatsApp, Teams and Trello). When the charter was revised to Version 2.0, we strengthened the communication and accountability rules, added response-time expectations and an announcement rule, and expanded the Definition of Done, using lessons from our Agile Logbook.
+**Action:** I worked with my team on the charter's roles, stand-up routine and communication channels (WhatsApp, Teams and Trello). The charter also set response-time expectations, an announcement rule for class updates, accountability steps for fair contribution and a Definition of Done for each type of work.
 
-**Result:** The charter gave me a clear role and clear deadlines for my research, and it showed me that a team agreement is only useful if it is reviewed and improved. Version 2.0 was better than Version 1.0 because it was based on problems we actually experienced.
-
+**Result:** The charter gave me a clear role and clear deadlines for my research, and I could check it whenever I was unsure what the team had agreed. It showed me that a team agreement is only useful if it is followed and reviewed regularly, which is why our charter describes itself as a living agreement.
 ---
 
 ### 2. USER STORIES AND TASKS
