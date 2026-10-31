@@ -204,7 +204,7 @@ Scrum board, Sprint 4 to Sprint 12
 
 <img src="https://YOURUSERNAME.github.io/REPO-NAME/images/agile-logbook-page-1.png" alt="Agile Logbook, page 1" width="800">
 
-<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/agile-logbook-page-2.png" alt="Agile Logbook, page 2" width="800">
+<img src="agile-logbook-page-2.png" alt="Agile Logbook, page 2" width="800">
 
 **Reflection**
 
