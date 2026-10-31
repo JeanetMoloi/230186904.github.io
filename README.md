@@ -100,14 +100,13 @@ Sober Hub is a community-focused business idea that aims to help young people in
 
 ---
 
-
 ### 1. AGILE TEAM CHARTER
 
 **Evidence**
 
 The full charter is also available as a PDF: <a href="https://YOURUSERNAME.github.io/REPO-NAME/Sober_Hub_Agile_Team_Charter.pdf">Sober Hub Agile Team Charter (PDF)</a>
 
-<img src="https://JeanetMoloi.github.io/230186904.github.io/images/agile-team-charter-page-1.png" alt="Agile Team Charter, page 1" width="700">
+<img src="https://YOURUSERNAME.github.io/REPO-NAME/images/agile-team-charter-page-1.png" alt="Agile Team Charter, page 1" width="700">
 
 <img src="https://YOURUSERNAME.github.io/REPO-NAME/images/agile-team-charter-page-2.png" alt="Agile Team Charter, page 2" width="700">
 
